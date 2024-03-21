@@ -1,4 +1,4 @@
-🚁 UAV Path Planning for Cellular Traffic Handling 📡
+##🚁 UAV Path Planning for Cellular Traffic Handling 📡
 
 Welcome to our repository dedicated to optimizing Unmanned Aerial Vehicle (UAV) path planning for efficient cellular traffic management. Our goal is to find the most optimized path for UAV deployment, accounting for obstacles such as cell towers, and ensuring smooth traffic flow.
 
