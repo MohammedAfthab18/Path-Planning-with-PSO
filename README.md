@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UAV Path Planning for Cellular Traffic Handling</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
+
         <h1>🚁 UAV Path Planning for Cellular Traffic Handling 📡</h1>
         <p>This repository contains code for optimizing Unmanned Aerial Vehicle (UAV) path planning to efficiently handle cellular traffic. The goal is to find an optimized path for UAV deployment, considering obstacles (such as cell towers) and the source-destination points.</p>
         
