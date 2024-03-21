@@ -13,11 +13,3 @@ Initialization: Initialize PSO parameters and particle positions.
 Optimization Loop: Iteratively update particle positions and velocities using PSO equations.
 Cost Evaluation: Evaluate the fitness (cost) of each particle's solution considering obstacle avoidance.
 Visualization: Plot the best path found by the PSO algorithm.
-🛠️ Usage:
-
-Clone the repository.
-Run the provided Python script.
-Adjust parameters or incorporate additional features as needed for your specific scenario.
-🌟 Contributions:
-
-Contributions are welcome! Feel free to fork the repository, make enhancements, and submit pull requests.
